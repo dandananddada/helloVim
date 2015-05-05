@@ -1,5 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
-let g:netrw_dirhist_1='/Users/admin/Sites/RubyWeb/CrowCMS'
-let g:netrw_dirhist_2='/Users/admin/Sites/RubyWeb/CrowCMS/app/controllers/api'
-let g:netrw_dirhist_3='/Users/admin/.vim/bundle/ack.vim'
